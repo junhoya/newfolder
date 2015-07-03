@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView"
+        android:layout_gravity="left|top" >
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:inputType="textMultiLine"
+            android:ems="10"
+            android:id="@+id/editText"
+            android:layout_gravity="right"
+            android:text="정부가 강화도 글램핑장 화재사고 뒤 내놓은 야영장 안전관리 강화대책이 캠핑족들로부터 '탁상행정'이라는 원성을 사고 있다.
+
+    지난달 18일 문화체육관광부가 입법 예고한 관련 시행규칙 개정안은 텐트 등 야영용 천막 안에서 전기나 가스 등의 사용을 금지하고 있다.
+
+    자녀들과 주말 캠핑을 자주 즐긴다는 송혁(45)씨는 아이들은 전기장판이 없으면 감기에 걸릴 수 있는데 날이 조금만 추워져도 함께 야영하기 어렵지 않겠느냐서 6년 동안 해온 캠핑을 접게 될 것 같다고 말했다.
+
+        주부 김현희(36)씨도 캠핑을 하면서 낮에는 강가에서 다슬기도 잡고, 밤에는 모닥불 주위에서 이야기도 나누며 아이들과 스트레스를 날려 왔는데 앞으로는 주말이면 아이들은 컴퓨터 앞에서, 남편은 TV만 보며 시간을 보내야겠느냐고 걱정했다.
+
+        정작 문제가 됐던 글램핑장이나 카라반 등의 시설에 대해서는 소화기와 누전차단기 등의 설치, 천막의 방염처리 의무화 등을 전제로 전기와 가스 사용을 일부 허용한 것도 논란거리다.
+
+        캠핑시설만 갖춘 곳들이 애꿎게 타격을 입게 된 것.
+
+        경기도 가평에서 캠핑장을 운영하고 있는 송모(34)씨는 레저업계 실정을 모르는 정부관계자들이 법안을 만든 것 같다면서 안 그래도 어려운 캠핑장에 이용객의 발길이 끊길 것이라고 말했다.
+
+        또 다른 캠핑장 업주 김모(45)씨도 안전이 무엇보다 중요하지만 현재 발표된 입법예고안이 그대로 통과된다면 캠핑장 80%는 문을 닫을 것이고, 결국 글램핑장만 남게 될 것이라고 우려했다.
+
+        국민신문고에서 진행된 두 차례의 전자공청회에서도 입법예고안에 대한 찬성은 30표에 불과했고 반대는 5,792표에 달했다.
+
+        이에 대해 문화체육관광부 관계자는 글램핑이나 카라반 같은 고정형 시설은 정기적으로 안전점검을 받으면 관리가 가능하지만, 야영용 천막은 사각지대에 놓일 수 있다면서 전문가가 아닌 캠핑 초보들을 위한 조치라고 설명했다.
+
+        안전이 무엇보다 중요하지만 자칫 일반 캠핑족까지 범법자로 내몰 수 있다는 우려와 캠핑 문화가 움츠려들지 않아야 한다는 업계의 반발 속에, 정부가 입법예고 기간 동안 다양한 목소리를 수용한 대안을 내놓을지도 주목된다.
+        apple@cbs.co.kr"/>
+    </ScrollView>
+
+</FrameLayout>
